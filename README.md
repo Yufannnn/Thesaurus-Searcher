@@ -79,7 +79,7 @@ Contributions are welcome! If you have any bug fixes, enhancements, or new featu
 
 ## License 📜
 
-This project is licensed under the MIT License - see the [LICENSE](https://chat.openai.com/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Yufannnn/Thesaurus-Searcher/blob/main/LICENSE) file for details.
 
 ## More to Come! 🎉🚀
 
