@@ -2,6 +2,8 @@
 
 Thesaurus Searcher is a Python command-line and GUI tool that allows users to search for synonyms of a given word. It fetches data from an online thesaurus and provides a list of synonyms based on user input.
 
+![image](Searcher.png)
+
 ## Features 🌟
 
 - Search for synonyms of a word based on its part-of-speech (noun, verb, adjective, or adverb).
